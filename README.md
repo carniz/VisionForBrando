@@ -1,3 +1,6 @@
+# Vision för Brändö
+![Brändö kommunvapen](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Kommunvapen_%C3%A5rsmodell_05.tif/lossless-page1-90px-Kommunvapen_%C3%A5rsmodell_05.tif.png)
+
 ## Problemformulering
 
 Brändö, och skärgården avfolkas. Den kvarvarande befolkningen flyttar bort, åldras och dör, och nyinflyttning sker inte i motsvarande takt. Utvecklingen avstannar.
