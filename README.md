@@ -5,7 +5,7 @@
 
 Brändö, och skärgården avfolkas. Den kvarvarande befolkningen flyttar bort, åldras och dör, och nyinflyttning sker inte i motsvarande takt. Utvecklingen avstannar.
 
-Den historiska utkomsten för befolkningen har varit småskaligt fiske och jordbruk, vilket för den moderna människan ter sig som en anakronism.
+Den historiska utkomsten för befolkningen har varit småskaligt fiske och jordbruk, vilket för den moderna människan ter sig som en anakronism. Brändö behöver möta samtiden och bli en del av den i ännu högre grad än förut.
 
 ## Lösning
 Attrahera unga människor som vill leva ett enklare, lugnare, och mer naturnära liv. Detta kräver dock att vissa grundläggande behov för dagens (och framtidens) generation tillgodoses:
@@ -31,7 +31,7 @@ Vi är, som nämnt ovan, en social varelse. Ett flockdjur, lite drastiskt uttryc
 ## Synergier / Att väga in
 Det pratas om att Brändö Andelshandel är i behov av renovering, eller relokering. Brändö saknar även en gästhamn, och byns funktioner är rejält utspridda runt ön: butiken ligger i Finnvik (enligt uppgift för att vara nåbar med båt, men idag endast tillgänglig för motorbåtar pga broar), och kyrkan ligger vid Norrstrand (även den enligt uppgift anlagd där för att vara nåbar med båt, men tydligen såg man ingen anledning att slå två flugor i samma smäll för både butiken och kyrkan och till exempel lägga även butiken vid Norrstrand).
 
-I dag är det väl endast Lappo som kan erbjuda en bra gästhamn där allting finns inom gångavstånd. Brändö får ingen del av kakan, men om både Brändö och Lappo erbjöd liknande gästhamnar så skulle det samlade värdet överstiga de enskilda värdena för respektive gästhamn: segelturister skulle se hela området som en enhet, och detta skulle skapa mervärde som gangnar bägga öarna.
+I dag är det väl endast Lappo som kan erbjuda en bra gästhamn där allting finns inom gångavstånd. Brändö får ingen del av kakan, men om både Brändö och Lappo erbjöd liknande gästhamnar så skulle det samlade värdet överstiga de enskilda värdena för respektive gästhamn: segelturister skulle se hela området som en enhet, och detta skulle skapa mervärde som gagnar bägga öarna.
 
 - Var skulle i så fall en gästhamn kunna byggas, och vad skulle vara den bästa platsen för en sådan? 
 - Vad skulle kunna kombineras för att skapa mervärde? 
@@ -43,5 +43,9 @@ Och om/när man ändå är i gång med att anlägga en ny butik, varför inte ko
 Och var ska man anlägga en coworking-verksamhet om man verkligen vill kunna sälja in drömmen om den natursköna skärgården? Tänk en bild på en modern ljusblå byggnad (med klassiska drag) i ett plan på klipporna vid Djurholm och med skiftet i bakgrunden, med texten <i>Vill du jobba här?</i>, som parafraserar Bellarshamns <i>Vill du flytta hit?</i>.
 Det gamla färjfästet i Djurholm står idag oanvänt och utgör ett område som skulle kunna rymma parkering för 10+ bilar.
 
-Djurholm antas dock vara för litet för att rymma både coworkingverksamhet, gästhamn och butik+vardagsrum, men området runt mellan kyrkan och Norrstrand borde med lätthet kunna rymma både gästhamn och butik+vardagsrum. Och vips kan båtturister till fots även gå och ta en titt på kyrkan när de ligger i hamn!
+Djurholm antas dock vara för litet för att rymma både coworkingverksamhet, gästhamn och butik+vardagsrum, men området runt mellan kyrkan och Norrstrand borde med lätthet kunna rymma både gästhamn och butik+vardagsrum. Och vips kan båtturister till fots även gå och ta en titt på kyrkan när de besöker gästhamnen.
+
+## På längre sikt / "Stretch goals"
+- Gällande coworking-centret vill man så mycket som möjligt minska det administrativa arbetet vid korttidsuthyrning. För detta ändamål kan man tänka sig ett bokningsystem som efter betalning tillhandahåller en kod som kan användas för att komma in i byggnaden, liknande hur det kan fungera vid bokning av boende i AirBnb. 
+- För marknadsföringen av coworking-centret kan det vara en god idé att gå med i något av de marknadledande nätverken, som till exempel Regus. På detta sätt kan "digitala nomader" hitta centret när de är på jakt efter intressanta platser att jobba ifrån.
 
