@@ -7,7 +7,7 @@ Brändö, och skärgården avfolkas. Den kvarvarande befolkningen flyttar bort, 
 
 Den historiska utkomsten för befolkningen har varit småskaligt fiske och jordbruk, vilket för den moderna människan ter sig som en anakronism. Brändö behöver möta samtiden och bli en del av den i ännu högre grad än förut.
 
-## Lösning
+## Målsättning
 Attrahera unga människor som vill leva ett enklare, lugnare, och mer naturnära liv. Detta kräver dock att vissa grundläggande behov för dagens (och framtidens) generation tillgodoses:
 
 - Bo (Bostad)
