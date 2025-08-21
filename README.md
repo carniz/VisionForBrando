@@ -46,7 +46,7 @@ Det gamla färjfästet i Djurholm står idag oanvänt och utgör ett område som
 Djurholm antas dock vara för litet för att rymma både coworkingverksamhet, gästhamn och butik+vardagsrum, men området runt mellan kyrkan och Norrstrand borde med lätthet kunna rymma både gästhamn och butik+vardagsrum. Och vips kan båtturister till fots även gå och ta en titt på kyrkan när de besöker gästhamnen.
 
 ## På längre sikt / "Stretch goals"
-- Gällande coworking-centret vill man så mycket som möjligt minska det administrativa arbetet vid korttidsuthyrning. För detta ändamål kan man tänka sig ett bokningsystem som efter betalning tillhandahåller en kod som kan användas för att komma in i byggnaden, liknande hur det kan fungera vid bokning av boende i AirBnb. 
+- Gällande coworking-centret vill man så mycket som möjligt minska det administrativa arbetet vid korttidsuthyrning. För detta ändamål kan man tänka sig ett bokningsystem som efter betalning tillhandahåller en kod som kan användas för incheckning och åtkomst av WiFi, liknande hur det kan fungera vid bokning av boende i AirBnb. 
 - För marknadsföringen av coworking-centret kan det vara en god idé att gå med i något av de marknadledande nätverken, som till exempel Regus. På detta sätt kan "digitala nomader" hitta centret när de är på jakt efter intressanta platser att jobba ifrån.
 - Många tegar i Brändö står i dag oanvända. Om man lyckas attrahera folk utifrån som under en provperiod bor i hyresbostäder så är det inte otänkbart att dessa efter några år vill köpa/bygga en egen bostad. Markägarna i Brändö borde kanske fundera över möjligheten att göra mindre villatomter av sina ägor, så att villaområden på detta sätt kan växa fram på obrukad mark.
 
