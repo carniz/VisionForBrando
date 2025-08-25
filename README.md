@@ -55,4 +55,4 @@ I Italien dras man i många regioner med liknande problematik: byar avfolkas och
 
 Men incitament kan även komma i annan form. Det som gränsar till det spektakulära kan även det fungera som lockbete. I Kalmsta utanför Mariehamn har man på det så kallade Solberget uppfört ett antal moderna höghus i 5+ våningar. Utsikten från en lägenhet i ett sådant hus, om det uppfördes på något av bergen på Brändö, skulle vara kort sagt extraordinär. Kostnaden för att uppföra sådana hus antas dock vara såpass hög att ingen investerare skulle vara intresserad av att hyra ut lägenheterna eftersom payback/payoff-tiden skulle räknas i enheter av årtionden, men om alla lägenheterna säljs på förhand så betalar sig investeringen med en gång. Sådana lägenheter skulle eventuellt kunna attrahera kapitalstarka familjer som söker en unik miljö för sitt boende, om Brändö samtidigt kan erbjuda de andra nödvändiga delarna (Jobba och Umgås).
 
-* Gullvivan har en privat gästhamn, men som sådan är den förbihållen besökare till Gullvivan.
+(*) Gullvivan har en privat gästhamn, men som sådan är den förbihållen besökare till Gullvivan.
