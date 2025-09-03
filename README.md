@@ -35,6 +35,9 @@ Vi är, som nämnt ovan, en social varelse. Ett flockdjur, lite drastiskt uttryc
 ## Synergier / Att väga in
 Det pratas om att Brändö Andelshandel är i behov av renovering, eller relokering. Brändö saknar även en gästhamn(*), och byns funktioner är rejält utspridda runt ön: butiken ligger i Finnvik (enligt uppgift för att vara nåbar med båt, men idag endast tillgänglig för motorbåtar pga broar), och kyrkan ligger vid Norrstrand (även den enligt uppgift anlagd där för att vara nåbar med båt, men tydligen såg man ingen anledning att slå två flugor i samma smäll för både butiken och kyrkan och till exempel lägga även butiken vid Norrstrand).
 
+![lappo-gästhamn](https://github.com/user-attachments/assets/9326bafb-b071-4259-a0aa-7d3be9c981ae)
+*Lappo gästhamn*
+
 I dag är det väl endast Lappo som kan erbjuda en bra gästhamn där allting finns inom gångavstånd. Brändö får ingen del av kakan, men om både Brändö och Lappo erbjöd liknande gästhamnar så skulle det samlade värdet överstiga de enskilda värdena för respektive gästhamn: segelturister skulle se hela området som en enhet, och detta skulle skapa mervärde som gagnar bägga öarna.
 
 - Var skulle i så fall en gästhamn kunna byggas, och vad skulle vara den bästa platsen för en sådan? 
