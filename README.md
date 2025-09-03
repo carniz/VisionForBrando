@@ -18,7 +18,11 @@ Attrahera unga människor som vill leva ett enklare, lugnare, och mer naturnära
 För den som vill prova på att bo på Brändö är det ett stort steg i sig att bosätta sig på en ö längst ut i den Åländska skärgården. Att kräva eller förvänta sig att potentiella nya Brändöbor ska göra en betydande investering för att köpa bostad eller mark för att sedan bygga sig en bostad är kort sagt ganska orealistiskt. De flesta skulle nog snarare se en flytt till Brändö ur ett "try (and then maybe buy)"-perspektiv, och för detta behövs det att det finns hyresbostäder.
 
 ### Jobba
-Småskaligt fiske och jordbruk tillhör det förgångna. Det finns givetvis ingenting som hindrar att man ägnar sig åt sådant som fritidsintresse, men den moderna människan är högutbildad och har möjlighet att ta med sig sitt jobb dit man kommer. Brändös räddning är just sin unika potential att kunna erbjuda en ren, vacker och naturnära plats att utföra sitt jobb på, för dem som kan ta med sig sitt befintliga arbete dit. Men som den sociala varelse som vi är, så behöver vi en plats där vi ser och möter andra människor. De flesta mår även bättre av att separera arbetet från fritiden så mycket som möjligt, så att man inte påminns om sitt arbete när man är ledig. Därför är så kallade coworking-center en idealisk lösning: man har en dedikerad plats att jobba från, där man samtidigt får en social kontext. Det är en plats där man kan stöta ihop med andra vid kaffemaskinen, prata aktualiteter och luncha tillsammans med andra människor. För oss som jobbat på distans ett längre tag så förtydligas vikten av detta mer och mer för var år som går. 
+Småskaligt fiske och jordbruk tillhör det förgångna. Det finns givetvis ingenting som hindrar att man ägnar sig åt sådant som fritidsintresse, men den moderna människan är högutbildad och har möjlighet att ta med sig sitt jobb dit man kommer. Brändös räddning är just sin unika potential att kunna erbjuda en ren, vacker och naturnära plats att utföra sitt jobb på, för dem som kan ta med sig sitt befintliga arbete dit. Men som den sociala varelse som vi är, så behöver vi en plats där vi ser och möter andra människor. De flesta mår även bättre av att separera arbetet från fritiden så mycket som möjligt, så att man inte påminns om sitt arbete när man är ledig. Därför är så kallade coworking-center en idealisk lösning: man har en dedikerad plats att jobba från, där man samtidigt får en social kontext. Det är en plats där man kan stöta ihop med andra vid kaffemaskinen, prata aktualiteter och luncha tillsammans med andra människor. För oss som jobbat på distans ett längre tag så förtydligas vikten av detta mer och mer för var år som går.
+
+![Djurholm-Coworking-Center](https://github.com/user-attachments/assets/ab04b533-90e9-444c-ba56-d6b2bf95b297)
+*Coworking Center på klipporna i Durholm*
+
 
 ### Umgås
 Vi är, som nämnt ovan, en social varelse. Ett flockdjur, lite drastiskt uttryckt. Vi behöver förutom bostad och arbete någonstans att socialisera. Någonstans att slå sig ner vid ett bord, trappa ner, och kanske slötitta lite på TV:n som sitter på väggen medan man tar en bit mat (eller bara en dryck) istället för att åka direkt hem efter jobbet. Kanske, en kall och mörk vinterkväll, vila blicken på eldstaden i mitten av lokalen medans de vid bordet bredvid samtalar om dagens händelser. Kort sagt: Brändö behöver ett vardagsrum där den morderna människan kan se, och bli sedd av, människor i den yttre sociala cirkeln.
@@ -43,7 +47,12 @@ Och om/när man ändå är i gång med att anlägga en ny butik, varför inte ko
 Och var ska man anlägga en coworking-verksamhet om man verkligen vill kunna sälja in drömmen om den natursköna skärgården? Tänk en bild på en modern marinblå byggnad (med klassiska drag) i ett plan på klipporna vid Djurholm och med skiftet i bakgrunden, med texten <i>Vill du jobba här?</i>, som parafraserar Bellarshamns <i>Vill du flytta hit?</i>.
 Det gamla färjfästet i Djurholm står idag oanvänt och utgör ett område som skulle kunna rymma parkering för 10+ bilar.
 
+<img width="848" height="761" alt="Djurholm" src="https://github.com/user-attachments/assets/594f1cec-d203-419a-8b41-475528f7ce7c" />
+
 Djurholm antas dock vara för litet för att rymma både coworkingverksamhet, gästhamn och butik+vardagsrum, men området runt mellan kyrkan och Norrstrand borde med lätthet kunna rymma både gästhamn och butik+vardagsrum. Och vips kan båtturister till fots även gå och ta en titt på kyrkan när de besöker gästhamnen.
+
+<img width="1120" height="759" alt="Norrstrand" src="https://github.com/user-attachments/assets/544b7e8d-a735-427f-bee7-2b7de0e114ec" />
+<i>Området vid Norrstrand</i>
 
 ## På längre sikt / "Stretch goals"
 - Gällande coworking-centret vill man så mycket som möjligt minska det administrativa arbetet vid korttidsuthyrning. För detta ändamål kan man tänka sig ett bokningsystem som efter betalning tillhandahåller en kod som kan användas för incheckning och åtkomst av WiFi, liknande hur det kan fungera vid bokning av boende i AirBnb. 
@@ -55,4 +64,10 @@ I Italien dras man i många regioner med liknande problematik: byar avfolkas och
 
 Men incitament kan även komma i annan form. Det som gränsar till det spektakulära kan även det fungera som lockbete. I Kalmsta utanför Mariehamn har man på det så kallade Solberget uppfört ett antal moderna höghus i 5+ våningar. Utsikten från en lägenhet i ett sådant hus, om det uppfördes på något av bergen på Brändö, skulle vara kort sagt extraordinär. Kostnaden för att uppföra sådana hus antas dock vara såpass hög att ingen investerare skulle vara intresserad av att hyra ut lägenheterna eftersom payback/payoff-tiden skulle räknas i enheter av årtionden, men om alla lägenheterna säljs på förhand så betalar sig investeringen med en gång. Sådana lägenheter skulle eventuellt kunna attrahera kapitalstarka familjer som söker en unik miljö för sitt boende, om Brändö samtidigt kan erbjuda de andra nödvändiga delarna (Jobba och Umgås).
 
-(*) Gullvivan har en privat gästhamn, men som sådan är den förbihållen besökare till Gullvivan.
+![Solberget](https://github.com/user-attachments/assets/b7b5d6ab-adc4-44ec-af01-e42a1d22f364)
+<i>Solberget i Kalmsta</i>
+
+## Målgrupp
+Som primär målgrupp avses barnfamiljer i storstadsområden som vill byta sin storstadsstress mot ett lugnare, enklare och mer naturnära liv. Svenska familjer antas tack vare sitt språk ha lättare att komma in i samhället, men man ska ha i åtanke att det i Sverige redan finns relativt gott om mindre samhällen med kustnära läge. Därför kan det vara idé att vända sig till hela Europa; både BeNeLux (Belgien, Nederländerna, Luxemburg) och Tyskland har områden med exremt hög befolkningstäthet, och det Nordiska landskapet tenderar sommartid att attrahera turister från dessa länder. Vänder man sig till hela EU så handlar det om en målgrupp på totalt 450 miljoner människor, och att lyckas attrahera 10+ distansarbetande barnfamiljer till Brändö från en sådan population borde inte vara något problem om alla delarna i visionen implementerats.
+
+(*) <span style="font-size: 4em;">Gullvivan har en privat gästhamn, men som sådan är den förbihållen besökare till Gullvivan.</span>
