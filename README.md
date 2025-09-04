@@ -55,10 +55,10 @@ Det gamla färjfästet i Djurholm står idag oanvänt och utgör ett område som
 
 Djurholm antas dock vara för litet för att rymma både coworkingverksamhet, gästhamn och butik+vardagsrum, men området runt mellan kyrkan och Norrstrand borde med lätthet kunna rymma både gästhamn och butik+vardagsrum. Och vips kan båtturister till fots även gå och ta en titt på kyrkan när de besöker gästhamnen.
 
-<img width="1120" height="759" alt="Norrstrand" src="https://github.com/user-attachments/assets/544b7e8d-a735-427f-bee7-2b7de0e114ec" />
+<img width="1378" height="818" alt="Norrstrand-satellitbild" src="https://github.com/user-attachments/assets/37d058e2-6257-4c49-97e4-a0e9da8e9c35" />
 <i>Området vid Norrstrand</i>
 
-<img width="1536" height="1024" alt="Norrstrand-med-gästhamn-och-butik" src="https://github.com/user-attachments/assets/d1a05737-da53-4a92-8919-03d539778ad8" />
+![Norrstrand-satellitbild-med-AI-modifikation](https://github.com/user-attachments/assets/58fdb92a-6ed7-40dd-8115-ea6119efea31)
 <i>AI-modifierat satellitfoto av Norrstrand</i>
 
 ## På längre sikt / "Stretch goals"
