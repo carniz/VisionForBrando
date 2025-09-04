@@ -20,7 +20,8 @@ För den som vill prova på att bo på Brändö är det ett stort steg i sig att
 ### Jobba
 Småskaligt fiske och jordbruk tillhör det förgångna. Det finns givetvis ingenting som hindrar att man ägnar sig åt sådant som fritidsintresse, men den moderna människan är högutbildad och har möjlighet att ta med sig sitt jobb dit man kommer. Brändös räddning är just sin unika potential att kunna erbjuda en ren, vacker och naturnära plats att utföra sitt jobb på, för dem som kan ta med sig sitt befintliga arbete dit. Men som den sociala varelse som vi är, så behöver vi en plats där vi ser och möter andra människor. De flesta mår även bättre av att separera arbetet från fritiden så mycket som möjligt, så att man inte påminns om sitt arbete när man är ledig. Därför är så kallade coworking-center en idealisk lösning: man har en dedikerad plats att jobba från, där man samtidigt får en social kontext. Det är en plats där man kan stöta ihop med andra vid kaffemaskinen, prata aktualiteter och luncha tillsammans med andra människor. För oss som jobbat på distans ett längre tag så förtydligas vikten av detta mer och mer för var år som går.
 
-![Djurholm-Coworking-Center](https://github.com/user-attachments/assets/ab04b533-90e9-444c-ba56-d6b2bf95b297)
+<img width="1536" height="1024" alt="Djurholm-Coworking-Center" src="https://github.com/user-attachments/assets/dc7a0cba-1839-4abe-83af-6e2fb832153c" />
+
 *Coworking Center på klipporna i Durholm*
 
 
