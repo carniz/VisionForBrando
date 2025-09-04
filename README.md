@@ -22,7 +22,7 @@ Småskaligt fiske och jordbruk tillhör det förgångna. Det finns givetvis inge
 
 <img width="1536" height="1024" alt="Djurholm-Coworking-Center" src="https://github.com/user-attachments/assets/dc7a0cba-1839-4abe-83af-6e2fb832153c" />
 
-*Coworking Center på klipporna i Durholm*
+*Visualisering av Coworking Center på klipporna i Durholm*
 
 
 ### Umgås
