@@ -58,6 +58,9 @@ Djurholm antas dock vara för litet för att rymma både coworkingverksamhet, g�
 <img width="1120" height="759" alt="Norrstrand" src="https://github.com/user-attachments/assets/544b7e8d-a735-427f-bee7-2b7de0e114ec" />
 <i>Området vid Norrstrand</i>
 
+<img width="1536" height="1024" alt="Norrstrand-med-gästhamn-och-butik" src="https://github.com/user-attachments/assets/d1a05737-da53-4a92-8919-03d539778ad8" />
+<i>AI-modifierat satellitfoto av Norrstrand</i>
+
 ## På längre sikt / "Stretch goals"
 - Gällande coworking-centret vill man så mycket som möjligt minska det administrativa arbetet vid korttidsuthyrning. För detta ändamål kan man tänka sig ett bokningsystem som efter betalning tillhandahåller en kod som kan användas för incheckning och åtkomst av WiFi, liknande hur det kan fungera vid bokning av boende i AirBnb. 
 - För marknadsföringen av coworking-centret kan det vara en god idé att gå med i något av de marknadledande nätverken, som till exempel Regus. På detta sätt kan "digitala nomader" hitta centret när de är på jakt efter intressanta platser att jobba ifrån.
