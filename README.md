@@ -48,7 +48,7 @@ Det gamla färjfästet i Djurholm står idag oanvänt och utgör ett område som
 
 <img width="1536" height="1024" alt="Djurholm-Coworking-Center" src="https://github.com/user-attachments/assets/dc7a0cba-1839-4abe-83af-6e2fb832153c" />
 
-*AI-visualisering av ett Coworking Center på klipporna i Durholm*
+*AI-visualisering av ett Coworking Center på klipporna i Djurholm*
 
 <img width="848" height="761" alt="Djurholm" src="https://github.com/user-attachments/assets/594f1cec-d203-419a-8b41-475528f7ce7c" />
 
