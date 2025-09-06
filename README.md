@@ -73,6 +73,9 @@ Men incitament kan även komma i annan form. Det som gränsar till det spektakul
 ![Solberget](https://github.com/user-attachments/assets/b7b5d6ab-adc4-44ec-af01-e42a1d22f364)
 <i>Solberget i Kalmsta</i>
 
+![Norrstrand goes Solberget med adderad gästhamn v2](https://github.com/user-attachments/assets/7551ed48-68d3-48e7-bb65-80773f8468a3)
+<i>AI-visualisering av Norrstrand med höghus i Solberget-stil, gästhamn och litet kafé.</i>
+
 ## Målgrupp
 Som primär målgrupp avses barnfamiljer i storstadsområden som vill byta sin storstadsstress mot ett lugnare, enklare och mer naturnära liv. Svenska familjer antas tack vare sitt språk ha lättare att komma in i samhället, men man ska ha i åtanke att det i Sverige redan finns relativt gott om mindre samhällen med kustnära läge. Därför kan det vara idé att vända sig till hela Europa; både BeNeLux (Belgien, Nederländerna, Luxemburg) och Tyskland har områden med exremt hög befolkningstäthet, och det Nordiska landskapet tenderar sommartid att attrahera turister från dessa länder. Vänder man sig till hela EU så handlar det om en målgrupp på totalt 450 miljoner människor, och att lyckas attrahera 10+ distansarbetande barnfamiljer till Brändö från en sådan population borde inte vara något problem om alla delarna i visionen implementerats.
 
