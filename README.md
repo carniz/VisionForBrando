@@ -24,7 +24,7 @@ Småskaligt fiske och jordbruk tillhör det förgångna. Det finns givetvis inge
 Vi är, som nämnt ovan, en social varelse. Ett flockdjur, lite drastiskt uttryckt. Vi behöver förutom bostad och arbete någonstans att socialisera. Någonstans att slå sig ner vid ett bord, trappa ner, och kanske slötitta lite på TV:n som sitter på väggen medan man tar en bit mat (eller bara en dryck) istället för att åka direkt hem efter jobbet. Kanske, en kall och mörk vinterkväll, vila blicken på eldstaden i mitten av lokalen medans de vid bordet bredvid samtalar om dagens händelser. Kort sagt: Brändö behöver ett vardagsrum där den morderna människan kan se, och bli sedd av, människor i den yttre sociala cirkeln.
 
 <img width="1024" height="907" alt="Värdshusinteriör" src="https://github.com/user-attachments/assets/2106a7b6-d424-4cd4-a40a-bea2d65b395a" />
-<i>AI-visualisering av en "vardagsinteriör" inspirerad av Österrikiska Gasthaus</i>
+<i>AI-visualisering av en "vardagsrumsinteriör" inspirerad av Österrikiska Gasthaus</i>
 
 
 ## Implementation
