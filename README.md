@@ -58,6 +58,7 @@ Förslag på planlösning:
 
 ![Djurholm Coworking Center planlösning](https://github.com/user-attachments/assets/f479b5b9-711e-4ee6-ac94-ba975756ff66)
 
+[Länk till projektet på HomeByMe](https://home.by.me/en/project/931393c331ea67100d79152/djurholm-coworking-center?open_planner=true)
 
 Isometriska bilder på ovanstående planlösning:
 ![Djurholm Coworking Center isovy norrut](https://github.com/user-attachments/assets/bef75373-f5a4-41a6-9c2b-6e1676cd9670)
