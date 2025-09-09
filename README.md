@@ -54,6 +54,22 @@ Det gamla färjfästet i Djurholm står idag oanvänt och utgör ett område som
 
 *AI-visualisering av ett Coworking Center på klipporna i Djurholm*
 
+Förslag på planlösning:
+
+<img width="699" height="781" alt="Djurholm Coworking Center toppvy" src="https://github.com/user-attachments/assets/93b0995e-acbc-4c18-9317-76327297d735" />
+
+Isometriska bilder på ovanstående planlösning:
+![Djurholm Coworking Center isovy norrut](https://github.com/user-attachments/assets/bef75373-f5a4-41a6-9c2b-6e1676cd9670)
+<img width="1333" height="736" alt="Djurholm Coworking Center isovy mot sydväst" src="https://github.com/user-attachments/assets/089c6b12-8203-4ec1-8ff2-cbf6ccd5e979" />
+![Djurholm Coworking Center isovy söderut](https://github.com/user-attachments/assets/c754ed2b-41cc-4de3-a540-8e43620549ac)
+
+3D-bilder på ovanstående planlösning:
+![Djurholm Coworking Center norrut dag](https://github.com/user-attachments/assets/78c7aac5-9e9a-4ef3-afba-2c37a6319b22)
+![Djurholm Coworking Center österut dag](https://github.com/user-attachments/assets/0139b343-1235-48e7-991d-72a8b6a0ff43)
+![Djurholm Coworking Center västerut dag](https://github.com/user-attachments/assets/1eeb3e1a-c64a-4157-bef1-7669b976254c)
+![Djurholm Coworking Center österut natt](https://github.com/user-attachments/assets/bb2185a5-49b5-4913-a693-109c940950b5)
+
+
 <img width="848" height="761" alt="Djurholm" src="https://github.com/user-attachments/assets/594f1cec-d203-419a-8b41-475528f7ce7c" />
 
 Djurholm antas dock vara för litet för att rymma både coworkingverksamhet, gästhamn och butik+vardagsrum, men området runt mellan kyrkan och Norrstrand borde med lätthet kunna rymma både gästhamn och butik+vardagsrum. Och vips kan båtturister till fots även gå och ta en titt på kyrkan när de besöker gästhamnen.
