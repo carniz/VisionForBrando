@@ -50,9 +50,9 @@ Och om/när man ändå är i gång med att anlägga en ny butik, varför inte ko
 Och var ska man anlägga en coworking-verksamhet om man verkligen vill kunna sälja in drömmen om den natursköna skärgården? Tänk en bild på en modern marinblå byggnad (med klassiska drag) i ett plan på klipporna vid Djurholm och med skiftet i bakgrunden, med texten <i>Vill du jobba här?</i>, som parafraserar Bellarshamns <i>Vill du flytta hit?</i>.
 Det gamla färjfästet i Djurholm står idag oanvänt och utgör ett område som skulle kunna rymma parkering för 10+ bilar.
 
-<img width="1536" height="1024" alt="Djurholm-Coworking-Center" src="https://github.com/user-attachments/assets/dc7a0cba-1839-4abe-83af-6e2fb832153c" />
+<img width="1344" height="768" alt="Gemini_Generated_Image_57ghh857ghh857gh" src="https://github.com/user-attachments/assets/13709cef-1a5a-4b4b-8874-edd6f5e607c5" />
 
-*AI-visualisering av ett Coworking Center på klipporna i Djurholm (N.B: inte i synk med nedanstående förslag på planlösning)*
+*Google Gemini's försök till visualisering av nedanstående förslag till planlösning för ett Coworking Center på klipporna i Djurholm*
 
 Förslag på planlösning:
 
