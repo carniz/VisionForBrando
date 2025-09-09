@@ -52,11 +52,12 @@ Det gamla färjfästet i Djurholm står idag oanvänt och utgör ett område som
 
 <img width="1536" height="1024" alt="Djurholm-Coworking-Center" src="https://github.com/user-attachments/assets/dc7a0cba-1839-4abe-83af-6e2fb832153c" />
 
-*AI-visualisering av ett Coworking Center på klipporna i Djurholm*
+*AI-visualisering av ett Coworking Center på klipporna i Djurholm (N.B: inte i synk med nedanstående förslag på planlösning)*
 
 Förslag på planlösning:
 
-<img width="699" height="781" alt="Djurholm Coworking Center toppvy" src="https://github.com/user-attachments/assets/93b0995e-acbc-4c18-9317-76327297d735" />
+![Djurholm Coworking Center planlösning](https://github.com/user-attachments/assets/f479b5b9-711e-4ee6-ac94-ba975756ff66)
+
 
 Isometriska bilder på ovanstående planlösning:
 ![Djurholm Coworking Center isovy norrut](https://github.com/user-attachments/assets/bef75373-f5a4-41a6-9c2b-6e1676cd9670)
@@ -92,9 +93,6 @@ Men incitament kan även komma i annan form. Det som gränsar till det spektakul
 
 ![Solberget](https://github.com/user-attachments/assets/b7b5d6ab-adc4-44ec-af01-e42a1d22f364)
 <i>Solberget i Kalmsta</i>
-
-<img width="1472" height="704" alt="Norrstrand goes Solberget med adderad gästhamn v3" src="https://github.com/user-attachments/assets/fd9b95a2-53f6-43bd-b674-62a54cd685d9" />
-<i>AI-visualisering av Norrstrand med höghus i Solberget-stil, gästhamn och servicebyggnader.</i>
 
 <img width="1472" height="704" alt="Norrstrand goes Solberget med adderad gästhamn v4" src="https://github.com/user-attachments/assets/f70b507a-11e4-401c-8a79-66da5cc07289" />
 <i>AI-visualisering av Norrstrand med modernt flervåningshus, gästhamn och servicebyggnader.</i>
