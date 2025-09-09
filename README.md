@@ -69,6 +69,8 @@ Isometriska bilder på ovanstående planlösning:
 ![Djurholm Coworking Center norrut dag](https://github.com/user-attachments/assets/78c7aac5-9e9a-4ef3-afba-2c37a6319b22)
 ![Djurholm Coworking Center österut dag](https://github.com/user-attachments/assets/0139b343-1235-48e7-991d-72a8b6a0ff43)
 ![Djurholm Coworking Center västerut dag](https://github.com/user-attachments/assets/1eeb3e1a-c64a-4157-bef1-7669b976254c)
+![Konferensrum 2](https://github.com/user-attachments/assets/f8d7f0cc-d568-4428-a742-86738aed7984)
+
 ![Djurholm Coworking Center österut natt 2](https://github.com/user-attachments/assets/da336c22-9197-49ef-a1f5-e78ee91771bf)
 
 
