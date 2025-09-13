@@ -57,7 +57,12 @@ Det gamla färjfästet i Djurholm står idag oanvänt och utgör ett område som
 
 Förslag på planlösning:
 
-![Djurholm Coworking Center planlösning](https://github.com/user-attachments/assets/f479b5b9-711e-4ee6-ac94-ba975756ff66)
+![Planlösning alt 1](https://github.com/user-attachments/assets/3829c637-72b0-4832-ad25-13539e69bcf7)
+
+Alternativ planlösning:
+
+![Planlösning alt 2](https://github.com/user-attachments/assets/05b9a8e2-a56e-47d8-a459-16ea871346e5)
+
 
 [Länk till projektet på HomeByMe](https://home.by.me/en/project/931393c331ea67100d79152/djurholm-coworking-center?open_planner=true)
 
