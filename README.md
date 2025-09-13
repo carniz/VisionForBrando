@@ -30,7 +30,7 @@ Vi är, som nämnt ovan, en social varelse. Ett flockdjur, lite drastiskt uttryc
 
 ## Implementation
 - Bygg 8-10 hyresbostäder dit de som vågar ta steget kan bo de första åren.
-- Bygg ett coworking-center med kapacitet för 10+ kontorsarbetande personer. Verksamheten skall kunna erbjuda korttidsuthyrning av skrivbordsplatser på dags/veckobasis, för dem som så behöver.
+- Bygg ett coworking-center med kapacitet för 10-20 kontorsarbetande personer. Verksamheten skall kunna erbjuda korttidsuthyrning av skrivbordsplatser på dags/veckobasis, för dem som så behöver.
 - Etablera en pub-liknande miljö som kan erbjuda mat, dryck, och lättare aktiviteter som TV och till exempel biljardbord eller pilkastning.
 
 ## Synergier / Att väga in
