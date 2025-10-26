@@ -55,9 +55,11 @@ Il vecchio approdo del traghetto a Djurholm è oggi inutilizzato e rappresenta u
 *Tentativo di visualizzazione di Google Gemini della proposta di layout per un Coworking Center sulle rocce di Djurholm*
 
 Proposta di planimetria:
+
 ![Planimetria alt 1](https://github.com/user-attachments/assets/3829c637-72b0-4832-ad25-13539e69bcf7)
 
 Planimetria alternativa:
+
 ![Planimetria alt 2](https://github.com/user-attachments/assets/05b9a8e2-a56e-47d8-a459-16ea871346e5)
 
 [Link al progetto su HomeByMe](https://home.by.me/en/project/931393c331ea67100d79152/djurholm-coworking-center?open_planner=true)
