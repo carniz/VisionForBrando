@@ -39,7 +39,7 @@ Det pratas om att Brändö Andelshandel är i behov av renovering, eller reloker
 ![lappo-gästhamn](https://github.com/user-attachments/assets/9326bafb-b071-4259-a0aa-7d3be9c981ae)
 *Lappo gästhamn*
 
-I dag är det väl endast Lappo som kan erbjuda en bra gästhamn där allting finns inom gångavstånd. Brändö får ingen del av kakan, men om både Brändö och Lappo erbjöd liknande gästhamnar så skulle det samlade värdet överstiga de enskilda värdena för respektive gästhamn: segelturister skulle se hela området som en enhet, och detta skulle skapa mervärde som gagnar bägga öarna.
+I dag är det väl endast Lappo och Jurmo som kan erbjuda bra gästhamnar där allting finns inom gångavstånd. Brändö får ingen del av kakan, men om både Brändö, Lappo och Jurmo erbjöd liknande gästhamnar så skulle det samlade värdet överstiga de enskilda värdena för respektive gästhamn: segelturister skulle se hela området som en enhet, och detta skulle skapa mervärde som gagnar bägga öarna.
 
 - Var skulle i så fall en gästhamn kunna byggas, och vad skulle vara den bästa platsen för en sådan? 
 - Vad skulle kunna kombineras för att skapa mervärde? 
