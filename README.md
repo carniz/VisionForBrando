@@ -23,9 +23,15 @@ Småskaligt fiske och jordbruk tillhör det förgångna. Det finns givetvis inge
 ### Umgås
 Vi är, som nämnt ovan, en social varelse. Ett flockdjur, lite drastiskt uttryckt. Vi behöver förutom bostad och arbete någonstans att socialisera. Någonstans att slå sig ner vid ett bord, trappa ner, och kanske slötitta lite på TV:n som sitter på väggen medan man tar en bit mat (eller bara en dryck) istället för att åka direkt hem efter jobbet. Kanske, en kall och mörk vinterkväll, vila blicken på eldstaden i mitten av lokalen medans de vid bordet bredvid samtalar om dagens händelser. Kort sagt: Brändö behöver ett vardagsrum där den morderna människan kan se, och bli sedd av, människor i den yttre sociala cirkeln.
 
-<img width="1104" height="944" alt="AI-värdshus-3" src="https://github.com/user-attachments/assets/f1997c4a-30c2-4117-8a25-0ad8840cf2b2" />
+![Värdshusinteriör](https://github.com/user-attachments/assets/6ffdeac4-91dd-45cb-915b-044c73de698a)
+<i>"Vardagsrumsinteriör" inspirerad av Österrikiska Gasthaus</i>
 
-<i>AI-visualisering av en "vardagsrumsinteriör" inspirerad av Österrikiska Gasthaus</i>
+![Värdshusinteriör i genomskärning](https://github.com/user-attachments/assets/808706dc-eae3-4f1b-bddd-0ec8ad20b94b)
+<i>Genomskärning av restauranglokal</i>
+
+![Bottenvåning av värdshus](https://github.com/user-attachments/assets/dd9851c9-cabb-4ba8-a17e-92e48125b5c1)
+<i>Isometrisk vy av bottenvåning på ett [tänkt värdsdhus](https://home.by.me/en/project/931393c331ea67100d79152/brando-vardshus?open_planner=true)</i>
+
 
 
 ## Implementation
