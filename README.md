@@ -30,7 +30,7 @@ Vi är, som nämnt ovan, en social varelse. Ett flockdjur, lite drastiskt uttryc
 <i>Genomskärning av restauranglokal</i>
 
 ![Bottenvåning av värdshus](https://github.com/user-attachments/assets/dd9851c9-cabb-4ba8-a17e-92e48125b5c1)
-<i>Isometrisk vy av bottenvåning på ett [tänkt värdsdhus](https://home.by.me/en/project/931393c331ea67100d79152/brando-vardshus?open_planner=true)</i>
+<i>Isometrisk vy av bottenvåning på ett [tänkt värdshus](https://home.by.me/en/project/931393c331ea67100d79152/brando-vardshus?open_planner=true)</i>
 
 ![Värdshusexteriör](https://github.com/user-attachments/assets/c1fa77b5-2bc2-4f98-81d4-01678702bf4d)
 <i>Exteriör av tänkt värdshus</i>
