@@ -3,7 +3,7 @@
 
 ## Problemformulering
 
-Brändö, och skärgården avfolkas. Den kvarvarande befolkningen flyttar bort, åldras och dör, och nyinflyttning sker inte i motsvarande takt. Utvecklingen avstannar.
+Brändö, och skärgården [avfolkas](https://sv.wikipedia.org/wiki/Br%C3%A4nd%C3%B6,_%C3%85land#Befolkningsutveckling). Den kvarvarande befolkningen flyttar bort, åldras och dör, och nyinflyttning sker inte i motsvarande takt. Utvecklingen avstannar.
 
 Den historiska utkomsten för befolkningen har varit småskaligt fiske och jordbruk, vilket för den moderna människan ter sig som en anakronism. Brändö behöver möta samtiden och bli en del av den i ännu högre grad än förut.
 
