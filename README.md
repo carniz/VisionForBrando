@@ -1,5 +1,5 @@
 # Vision för Brändö
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Kommunvapen_%C3%A5rsmodell_05.tif/lossless-page1-500px-Kommunvapen_%C3%A5rsmodell_05.tif.png" width="160" height="200" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Kommunvapen_%C3%A5rsmodell_05.tif/lossless-page1-500px-Kommunvapen_%C3%A5rsmodell_05.tif.png" width="80" />
 
 ## Problemformulering
 
@@ -59,7 +59,7 @@ Och om/när man ändå är i gång med att anlägga en ny butik, varför inte ko
 Och var ska man anlägga en coworking-verksamhet om man verkligen vill kunna sälja in drömmen om den natursköna skärgården? Tänk en bild på en modern marinblå byggnad (med klassiska drag) i ett plan på klipporna vid Djurholm och med skiftet i bakgrunden, med texten <i>Vill du jobba här?</i>, som parafraserar Bellarshamns <i>Vill du flytta hit?</i>.
 Det gamla färjfästet i Djurholm står idag oanvänt och utgör ett område som skulle kunna rymma parkering för 10+ bilar.
 
-<img width="1344" height="768" alt="Gemini_Generated_Image_57ghh857ghh857gh" src="https://github.com/user-attachments/assets/13709cef-1a5a-4b4b-8874-edd6f5e607c5" />
+<img width="1344" alt="Gemini_Generated_Image_57ghh857ghh857gh" src="https://github.com/user-attachments/assets/13709cef-1a5a-4b4b-8874-edd6f5e607c5" />
 
 *Google Gemini's försök till visualisering av nedanstående förslag till planlösning för ett Coworking Center på klipporna i Djurholm*
 
@@ -76,7 +76,7 @@ Alternativ planlösning:
 
 Isometriska bilder på ovanstående planlösning:
 ![Djurholm Coworking Center isovy norrut](https://github.com/user-attachments/assets/bef75373-f5a4-41a6-9c2b-6e1676cd9670)
-<img width="1333" height="736" alt="Djurholm Coworking Center isovy mot sydväst" src="https://github.com/user-attachments/assets/089c6b12-8203-4ec1-8ff2-cbf6ccd5e979" />
+<img width="1333" alt="Djurholm Coworking Center isovy mot sydväst" src="https://github.com/user-attachments/assets/089c6b12-8203-4ec1-8ff2-cbf6ccd5e979" />
 ![Djurholm Coworking Center isovy söderut](https://github.com/user-attachments/assets/c754ed2b-41cc-4de3-a540-8e43620549ac)
 
 3D-bilder på ovanstående planlösning:
@@ -88,11 +88,11 @@ Isometriska bilder på ovanstående planlösning:
 ![Djurholm Coworking Center österut natt 2](https://github.com/user-attachments/assets/da336c22-9197-49ef-a1f5-e78ee91771bf)
 
 
-<img width="848" height="761" alt="Djurholm" src="https://github.com/user-attachments/assets/594f1cec-d203-419a-8b41-475528f7ce7c" />
+<img width="848"  alt="Djurholm" src="https://github.com/user-attachments/assets/594f1cec-d203-419a-8b41-475528f7ce7c" />
 
 Djurholm antas dock vara för litet för att rymma både coworkingverksamhet, gästhamn och butik+vardagsrum, men området runt mellan kyrkan och Norrstrand borde med lätthet kunna rymma både gästhamn och butik+vardagsrum. Och vips kan båtturister till fots även gå och ta en titt på kyrkan när de besöker gästhamnen.
 
-<img width="1378" height="818" alt="Norrstrand-satellitbild" src="https://github.com/user-attachments/assets/37d058e2-6257-4c49-97e4-a0e9da8e9c35" />
+<img width="1378"  alt="Norrstrand-satellitbild" src="https://github.com/user-attachments/assets/37d058e2-6257-4c49-97e4-a0e9da8e9c35" />
 <i>Området vid Norrstrand</i>
 
 ![Norrstrand-satellitbild-med-AI-modifikation](https://github.com/user-attachments/assets/58fdb92a-6ed7-40dd-8115-ea6119efea31)
@@ -111,7 +111,7 @@ Men incitament kan även komma i annan form. Det som gränsar till det spektakul
 ![Solberget](https://github.com/user-attachments/assets/b7b5d6ab-adc4-44ec-af01-e42a1d22f364)
 <i>Solberget i Kalmsta</i>
 
-<img width="1472" height="704" alt="Norrstrand goes Solberget med adderad gästhamn v4" src="https://github.com/user-attachments/assets/f70b507a-11e4-401c-8a79-66da5cc07289" />
+<img width="1472"  alt="Norrstrand goes Solberget med adderad gästhamn v4" src="https://github.com/user-attachments/assets/f70b507a-11e4-401c-8a79-66da5cc07289" />
 <i>AI-visualisering av Norrstrand med modernt flervåningshus, gästhamn och servicebyggnader.</i>
 
 ## Målgrupp
@@ -123,4 +123,4 @@ En heltidsarbetande småföretagare i t.ex. IT-branschen omsätter utan problem 
 ## Finansiering
 Kommunen har enligt uppgift som policy att endast stå för 25% av kostnaden vid investering. För de resterande 75 procenten behövs därför externa intressenter, och om dessa inte går att finna i den privata sektorn så kanske det finns möjlighet att ansöka om EU-bidrag för "stöd till glesbygdsprojekt", eller liknande. Brändö kommun skulle eventuellt kunna anlita en konsult i sådana frågor för att få klarhet i vilka möjligheter som finns att finansiera byggnation av de olika delarna i visionen. Om man ändå tänkt sikta in sig på hela EU som målgrupp så kanske EU också har ett större intresse av att gå in som finansiär av en unik plats för sina medborgare att bo, jobba och umgås på?
 
-(*) <span style="font-size: 4em;">Gullvivan har en privat gästhamn, men som sådan är den förbehållen besökare till Gullvivan.</span>
+(*) <span style="font-size: 1em;">Gullvivan har en privat gästhamn, men som sådan är den förbehållen besökare till Gullvivan.</span>
