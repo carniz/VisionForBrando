@@ -1,5 +1,5 @@
 # Vision för Brändö
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Kommunvapen_%C3%A5rsmodell_05.tif/lossless-page1-500px-Kommunvapen_%C3%A5rsmodell_05.tif.png" width="200" height=250" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Kommunvapen_%C3%A5rsmodell_05.tif/lossless-page1-500px-Kommunvapen_%C3%A5rsmodell_05.tif.png" width="160" height="200" />
 
 ## Problemformulering
 
